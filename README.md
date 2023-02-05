@@ -1,3 +1,3 @@
 # Image Gallery
 
-[Preview link](https://duckduckgo.com).
+[Preview link](https://codepen.io/andresrubiot/pen/abjMvPz).
