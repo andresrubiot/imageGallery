@@ -1,6 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(to bottom, #1d386f, #005487, #007097, #048ba2, #43a6aa);
+}
+
 section {
     display: flex;
-    width: 600px;
+    border: 20px solid white;
+    border-style: inset;
+    width: 800px;
     height: 430px;
 }
 
