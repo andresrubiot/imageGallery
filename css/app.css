@@ -17,3 +17,19 @@ section img:hover {
     opacity: 1;
     filter: contrast(150%);
 }
+
+.html {
+    background-color: #EB5B24;
+}
+
+.css {
+    background-color: #2376FF;
+}
+
+.php {
+    background-color: #848DBA;
+}
+
+.laravel {
+    background-color: #F0F0F0;
+}
